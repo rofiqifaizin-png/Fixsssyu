@@ -279,6 +279,9 @@ details{
 ul{
   padding-left: 15px;
 }
+ol {
+  padding-left: 15px;
+}
 
 .artikel-gambar-reverse {
   /* Gambar mengambil ruang yang lebih kecil */
