@@ -263,6 +263,9 @@ details{
   border-radius: 15px;
   padding: 10px;
 }
+.background2 ul li b {
+  color: #2bb032;
+}
 
 .background h2,.background2 h2 {
   text-align: left;
@@ -271,7 +274,7 @@ details{
   padding: 5px;
 }
 .background h3,.background2 h3 {
-  color: var(--color1);
+  color:  rgb(255, 119, 0);
 
 }
 
