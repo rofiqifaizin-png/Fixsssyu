@@ -353,6 +353,65 @@ ol {
   background-color: var(--color2);
   width: 50px;
   border-radius: 10px;
+  text-align: center;
+}
+details .penghitungan {
+  margin-left: 0;
+}
+.garis-eliminasi {
+  width: 200px;
+  height: 3px;
+  background: var(--black);
+}
+.MTK ol.carahitung li.el {
+  background-color: var(--color4);
+  border-radius: 10px;
+  width: 300px;
+  margin-top: 10px;
+  text-align: center;
+}
+.MTK ol.carahitung li.sub {
+  background-color: rgba(255, 157, 0, 0.551);
+  border-radius: 10px;
+  width: 300px;
+  margin-top: 10px;
+  text-align: center;
+}
+.MTK ol.carahitung li.sub2 {
+  background-color: rgba(255, 157, 0, 0.551);
+  border-radius: 10px;
+  width: 400px;
+  margin-top: 10px;
+  text-align: center;
+}
+.MTK ol.carahitung li.Hp {
+  background-color: rgba(0, 255, 85, 0.775);
+  border-radius: 10px;
+  width: 400px;
+  margin-top: 10px;
+  text-align: center;
+  height: 50px;
+  font-size: 22px;
+  padding: 10px;
+}
+.eliminasi,.subtitusi{
+  background-color: rgba(255, 255, 255, 0.611);
+  width: 400px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.hasil {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.persamaan {
+  border-radius: 10px;
+  background-color: rgba(153, 0, 0, 0.467);
+  color: #fff;
+  width: 150px;
+  text-align: center;
 }
 .MTK ol.rumus li {
   margin:10px;
